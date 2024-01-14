@@ -1,0 +1,309 @@
+genre: Experimental , number of tracks: 186
+genre: Progressive Rock , number of tracks: 12
+genre: Alternative Metal , number of tracks: 1
+genre: Hip-Hop , number of tracks: 725
+genre: Folk , number of tracks: 582
+genre: Ambient Electronic , number of tracks: 59
+genre: Chiptune , number of tracks: 35
+genre: Balkan , number of tracks: 71
+genre: piano , number of tracks: 3
+genre: Electronic , number of tracks: 385
+genre: Hip Hop: Gay , number of tracks: 6
+genre: Soundtrack , number of tracks: 383
+genre: Singer-Songwriter , number of tracks: 54
+genre: Jazz , number of tracks: 64
+genre: Rock , number of tracks: 264
+genre: Alternative , number of tracks: 33
+genre: Pop , number of tracks: 273
+genre: Garage , number of tracks: 33
+genre: project168.co.uk - part 3 , number of tracks: 3
+genre: Avant-Garde , number of tracks: 131
+genre: Indie-Rock , number of tracks: 59
+genre: Experimental Pop , number of tracks: 143
+genre: Dub , number of tracks: 69
+genre: suRRism-Phonoethics , number of tracks: 66
+genre: Psych-Rock , number of tracks: 36
+genre: Industrial , number of tracks: 21
+genre: Improv , number of tracks: 6
+genre: Jungle, Drum & Bass, Experimental , number of tracks: 5
+genre: Indie , number of tracks: 8
+genre: Noise , number of tracks: 87
+genre: Gothrock , number of tracks: 2
+genre: Instrumental , number of tracks: 206
+genre: Punk , number of tracks: 65
+genre: Indy Rock , number of tracks: 34
+genre: Post-Rock , number of tracks: 37
+genre: International , number of tracks: 230
+genre: World, Turkey, Turkish, Persian, Kurdish, Sil , number of tracks: 3
+genre: IDM , number of tracks: 10
+genre: Unknown , number of tracks: 41
+genre: Ambient , number of tracks: 51
+genre: Dubstep , number of tracks: 57
+genre: Latin America , number of tracks: 42
+genre: Europe , number of tracks: 25
+genre: Sound Collage , number of tracks: 9
+genre: Electroacoustic , number of tracks: 23
+genre: chamber music [delete] , number of tracks: 1
+genre: Field Recordings , number of tracks: 66
+genre: Compilation , number of tracks: 2
+genre: Ambient Electronica , number of tracks: 1
+genre: Audio Collage , number of tracks: 35
+genre: Chip Music , number of tracks: 9
+genre: Unclassifiable , number of tracks: 12
+genre: Audio-Collage , number of tracks: 5
+genre: Indian , number of tracks: 2
+genre: experimental; acoustic; electroacoustic; gahlism; other , number of tracks: 1
+genre: Netlabel , number of tracks: 5
+genre: Psych-Folk , number of tracks: 53
+genre: Reggae - Dub , number of tracks: 60
+genre: Electronica/Dance , number of tracks: 3
+genre: Experimental Rock , number of tracks: 1
+genre: Hip Hop , number of tracks: 12
+genre: Novelty , number of tracks: 5
+genre: Other , number of tracks: 84
+genre: Reggae , number of tracks: 21
+genre: Reggae dub , number of tracks: 1
+genre: Plunderphonics , number of tracks: 1
+genre: Metal , number of tracks: 41
+genre: Techno , number of tracks: 35
+genre: Song-poem , number of tracks: 6
+genre: Future Roots , number of tracks: 8
+genre: Death-Metal , number of tracks: 9
+genre: hip hop , number of tracks: 1
+genre: Alternative & Punk , number of tracks: 7
+genre: folk, guitar , number of tracks: 1
+genre: Abstract, IDM, Drill & Bass, Dubstep , number of tracks: 1
+genre: m00mba , number of tracks: 1
+genre: Arena Hair Chip , number of tracks: 1
+genre: skweee , number of tracks: 2
+genre: Grindcore , number of tracks: 5
+genre: Alternative Hip-Hop , number of tracks: 7
+genre: Trip-Hop , number of tracks: 31
+genre: Drum and Bass , number of tracks: 2
+genre: Synth Pop , number of tracks: 10
+genre: Breakcore - Hard , number of tracks: 2
+genre: Middle East , number of tracks: 10
+genre: Drum N Bass , number of tracks: 1
+genre: Chip , number of tracks: 1
+genre: Hip-Hop Beats , number of tracks: 18
+genre: Rap , number of tracks: 27
+genre: Electronica , number of tracks: 26
+genre: Folk/Rock , number of tracks: 5
+genre: Gothic Folk , number of tracks: 2
+genre: Indie-Pop , number of tracks: 41
+genre: New Wave , number of tracks: 5
+genre: micromusic , number of tracks: 3
+genre: Garage punk , number of tracks: 1
+genre: Shoegaze , number of tracks: 2
+genre: Acoustic , number of tracks: 7
+genre: Lo-Fi , number of tracks: 15
+genre: Chill-out , number of tracks: 6
+genre: Symphonic Rock , number of tracks: 1
+genre: modern classical electronics , number of tracks: 1
+genre: Celtic , number of tracks: 26
+genre: Reggae - Dub, Acoustic Reaggae, Roots Reaggae , number of tracks: 1
+genre: Blues , number of tracks: 21
+genre: Post-Punk , number of tracks: 13
+genre: indie pop , number of tracks: 3
+genre: Power-Pop , number of tracks: 7
+genre: Afrobeat , number of tracks: 11
+genre: Sci-Fi Death Metal , number of tracks: 5
+genre: Ambient/Field Recordings , number of tracks: 1
+genre: Black-Metal , number of tracks: 3
+genre: Easy Listening: Instrumental , number of tracks: 5
+genre: Erstwhile , number of tracks: 1
+genre: Acoustic, Experimental, Instrumental, Double Bass, , number of tracks: 1
+genre: Polka , number of tracks: 7
+genre: Spoken , number of tracks: 1
+genre: Romany (Gypsy) , number of tracks: 10
+genre: World , number of tracks: 36
+genre: Experimental/Free Folk , number of tracks: 3
+genre: Revival , number of tracks: 1
+genre: Free Folk , number of tracks: 2
+genre: Latin , number of tracks: 17
+genre: Krautrock , number of tracks: 2
+genre: Electro-Punk , number of tracks: 1
+genre: Electro-punk , number of tracks: 1
+genre: Evident Core , number of tracks: 1
+genre: Lounge , number of tracks: 1
+genre: Brazilian , number of tracks: 1
+genre: stoner , number of tracks: 3
+genre: Pop, Experimental , number of tracks: 1
+genre: Ambient Trance , number of tracks: 2
+genre: Jungle , number of tracks: 6
+genre: Improvised electronics , number of tracks: 1
+genre: Dance , number of tracks: 10
+genre: New Age , number of tracks: 30
+genre: Acoustic, Improvisation , number of tracks: 1
+genre: Synthpunk , number of tracks: 1
+genre: Progressive, Post-Rock , number of tracks: 1
+genre: Classwar Karaoke , number of tracks: 10
+genre: Future Blap , number of tracks: 2
+genre: Hardcore, Black Metal , number of tracks: 1
+genre: Drone , number of tracks: 4
+genre: Psych REPLACE w/ Psych-Rock , number of tracks: 1
+genre: Other - misc , number of tracks: 1
+genre: Progressive , number of tracks: 4
+genre: Plunderphonic , number of tracks: 2
+genre: Field Recording , number of tracks: 1
+genre: ￾䔀氀攀挀琀爀漀 䐀甀戀 , number of tracks: 1
+genre: Film Music , number of tracks: 2
+genre: Electro-Punk, New Wave, Indie-Rock , number of tracks: 4
+genre: Orchestral , number of tracks: 5
+genre: ghetto blop experiments , number of tracks: 5
+genre: Rap, Chicago Rap , number of tracks: 6
+genre: Dub Fusion , number of tracks: 12
+genre: Surf , number of tracks: 1
+genre: Breakbeat , number of tracks: 3
+genre: brass band , number of tracks: 1
+genre: Noise-Rock , number of tracks: 15
+genre: Hip Hop, Electronic, Beats , number of tracks: 3
+genre: Ambient / Industrial , number of tracks: 3
+genre: genre , number of tracks: 11
+genre: Breakcore , number of tracks: 2
+genre: Acoustic / Folk , number of tracks: 4
+genre: Tripstep , number of tracks: 4
+genre: French , number of tracks: 13
+genre: Reggae - Dancehall , number of tracks: 3
+genre: Sound Art , number of tracks: 1
+genre: Electronic, Dance, Club, Boogie, 80s, , number of tracks: 6
+genre: Punk Rock , number of tracks: 3
+genre: leader , number of tracks: 1
+genre: riding , number of tracks: 1
+genre: goals , number of tracks: 2
+genre: story , number of tracks: 1
+genre: Popcorn , number of tracks: 2
+genre: Popped , number of tracks: 1
+genre: Minimalism , number of tracks: 12
+genre: Avantgarde , number of tracks: 5
+genre: Chillout , number of tracks: 11
+genre: Psychedelic Electronic / Synth Drone / Abstract / Sound Collage , number of tracks: 2
+genre: Hardcore , number of tracks: 12
+genre: Holiday , number of tracks: 28
+genre: Dont bother , number of tracks: 2
+genre: Lo fi sardinian dub , number of tracks: 1
+genre: Loving Dub , number of tracks: 1
+genre: Breaking Dub , number of tracks: 1
+genre: Blues/R&B , number of tracks: 1
+genre: Cosmic Analog Dub , number of tracks: 1
+genre: shadow dub , number of tracks: 1
+genre: World Folk Experimental , number of tracks: 5
+genre: Alt. Rock , number of tracks: 2
+genre: Cinematic , number of tracks: 6
+genre: Existential Surf , number of tracks: 5
+genre: Post rock , number of tracks: 1
+genre: real , number of tracks: 1
+genre: Space Ambient , number of tracks: 4
+genre: Drum & Bass , number of tracks: 1
+genre: RootsStep , number of tracks: 12
+genre: tripstep , number of tracks: 5
+genre: dark ambient , number of tracks: 4
+genre: Singer/Songwriter , number of tracks: 2
+genre: Southern Rock , number of tracks: 1
+genre: Alternatif , number of tracks: 1
+genre: Genre inconnu , number of tracks: 1
+genre: Sentimental Electronic , number of tracks: 1
+genre: Classical , number of tracks: 2
+genre: Improvisation , number of tracks: 1
+genre: Cumbia , number of tracks: 2
+genre: hornsection , number of tracks: 1
+genre: URBAN , number of tracks: 1
+genre: alienated , number of tracks: 2
+genre: guitarhook , number of tracks: 1
+genre: jealousy , number of tracks: 1
+genre: chuckberryguitar , number of tracks: 1
+genre: anticapitalist , number of tracks: 1
+genre: Post Rock , number of tracks: 1
+genre: Psychedelic , number of tracks: 7
+genre: Free-Folk , number of tracks: 5
+genre: Trance , number of tracks: 9
+genre: Experimental/Improv , number of tracks: 1
+genre: No Weird America , number of tracks: 2
+genre: folktronica,acoustic,instrumental , number of tracks: 11
+genre: Chiptune, 8-bit , number of tracks: 1
+genre: Doom , number of tracks: 2
+genre: Breakbeat, Drum & Bass , number of tracks: 6
+genre: dub / ska / tango / lots of other things... , number of tracks: 1
+genre: Electronic/Dance , number of tracks: 2
+genre: Upitup Records , number of tracks: 8
+genre: altrap sickfolk , number of tracks: 1
+genre: Chiptune for Kids , number of tracks: 2
+genre: Brazil , number of tracks: 1
+genre: Asia-Far East , number of tracks: 33
+genre: Soul-RandB , number of tracks: 2
+genre: Free-Jazz , number of tracks: 2
+genre: African , number of tracks: 6
+genre: Avante pop , number of tracks: 3
+genre: avant-garage, experimental; soundcollage; free jazz; post-funk; minimalist; other , number of tracks: 1
+genre: Patriotic , number of tracks: 3
+genre: Club , number of tracks: 3
+genre: Electronica / Dance , number of tracks: 4
+genre: Top 40 , number of tracks: 2
+genre: No Wave , number of tracks: 2
+genre: Children's Music , number of tracks: 10
+genre: Collage , number of tracks: 1
+genre: Freak-Folk , number of tracks: 2
+genre: Indietronic , number of tracks: 2
+genre: Indiepop , number of tracks: 1
+genre: ALTEMA Records , number of tracks: 1
+genre: Black Metal , number of tracks: 2
+genre: FungusSonambuluS , number of tracks: 1
+genre: Minimal Electronic , number of tracks: 2
+genre: Psychedelic Folk , number of tracks: 1
+genre: Salsa , number of tracks: 1
+genre: psych chance, electronic , number of tracks: 2
+genre: Klezmer , number of tracks: 6
+genre: Abstract , number of tracks: 1
+genre: ??? , number of tracks: 1
+genre: Rock Proper , number of tracks: 1
+genre: Kak R Phonic , number of tracks: 1
+genre: Rock Opera , number of tracks: 3
+genre: Space-Rock , number of tracks: 1
+genre: experimental pop; electronic pop; improvisation; live; other , number of tracks: 1
+genre: Acid , number of tracks: 1
+genre: Misc. International , number of tracks: 13
+genre: Ethnic , number of tracks: 27
+genre: Electropop , number of tracks: 3
+genre: experimental, ambient, dark ambient, soundtrack , number of tracks: 9
+genre: House , number of tracks: 6
+genre: Genre , number of tracks: 1
+genre: New Plastic Soul , number of tracks: 1
+genre: Contemporary , number of tracks: 1
+genre: folk-punk, folk-blues, singer-songwriter, freak folk, new weird America , number of tracks: 4
+genre: Death Metal , number of tracks: 5
+genre: Darkwave , number of tracks: 1
+genre: Visual , number of tracks: 2
+genre: Avant-Garde/Improv , number of tracks: 1
+genre: experimental; psychedelic; folk , number of tracks: 1
+genre: Downtempo , number of tracks: 6
+genre: Rock & Roll , number of tracks: 1
+genre: Freak-folk , number of tracks: 1
+genre: Pop: Experimental , number of tracks: 1
+genre: Breaks , number of tracks: 2
+genre: Electro House , number of tracks: 8
+genre: Acid House , number of tracks: 2
+genre: Dream Pop , number of tracks: 3
+genre: Chillstep , number of tracks: 4
+genre: Progressive Trance , number of tracks: 1
+genre: Instrumental Rock , number of tracks: 1
+genre: North African , number of tracks: 6
+genre: Greek , number of tracks: 3
+genre: Sound Poetry , number of tracks: 4
+genre: fieldrecording , number of tracks: 4
+genre: Melodic Black Metal , number of tracks: 3
+genre: SOUNDSCAPES , number of tracks: 1
+genre: B.A.N.G , number of tracks: 16
+genre: Post-Punk, Surf, Hardcore , number of tracks: 1
+genre: weirdo carnival , number of tracks: 10
+genre: singer-songwriter , number of tracks: 3
+genre: Synthpop , number of tracks: 4
+genre: Piano House , number of tracks: 1
+genre: Pop-corn , number of tracks: 11
+genre: Tech_House , number of tracks: 1
+genre: Tech_Electro , number of tracks: 1
+genre: Weather , number of tracks: 1
+genre: Acoustic,Instrumental,Ambient, , number of tracks: 5
+genre: Remix , number of tracks: 1
+genre: Christmas , number of tracks: 1
+genre: Electro , number of tracks: 1
+genre: DONT HAVE ONE , number of tracks: 1770
