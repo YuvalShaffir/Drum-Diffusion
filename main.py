@@ -1,7 +1,7 @@
 import os
 import shutil
 import soundfile as sf
-import demucs_utils as dem
+# import demucs_utils as dem
 import demucs.separate
 import librosa
 import os
@@ -16,13 +16,13 @@ DTYPE = '--float32'
 TWO_STEMS = "--two-stems"
 ROLE = "drums"
 FLAG = "-o"
-SAVE_PATH = "/Users/mac/pythonProject1/pythonProject/utils"
+SAVE_PATH = "D:\Python Projects\Drum-Diffusion\dataset"
 PAIRS = "pairs"
 MODEL_FLAG = "-n"
 MODEL = "mdx_extra"
 NEW_DIR_NAME = "mdx_extra"
-DEMUCS_OUT_DIR = os.path.join(SAVE_PATH,NEW_DIR_NAME)
-PAIRS_DIR = os.path.join(SAVE_PATH,PAIRS)
+DEMUCS_OUT_DIR = os.path.join(SAVE_PATH, NEW_DIR_NAME)
+PAIRS_DIR = os.path.join(SAVE_PATH, PAIRS)
 LEN_IN_SEC = 5
 OVERLAP_IN_SEC = 0.25
 DUMP_SHORTER = True
@@ -521,7 +521,7 @@ if __name__ == '__main__':
     # print(sr)
 
     # cut_save_audio()
-    create_save_mel_spec()
+    # create_save_mel_spec()
 
     # demucs.separate.main(
     #     [FILE_TYPE, TWO_STEMS, ROLE, FLAG, SAVE_PATH, MODEL_FLAG, MODEL,
@@ -533,7 +533,7 @@ if __name__ == '__main__':
     # method()
     # check_dtype('/Users/mac/pythonProject1/pythonProject/utils/wow')
     # check_genres('/Users/mac/Downloads/fma_small')
-    # apply_demucs_on_dir('/Users/mac/pythonProject1/pythonProject/utils/small_demo_set',SAVE_PATH)
+    apply_demucs_on_dir('D:/fma_small/fma_small' , SAVE_PATH)
 
 # Example usage:
 # copy_directory_contents('path/to/input/directory', 'path/to/output/directory')
