@@ -8,7 +8,7 @@ SO I DOWNLOADED THEM AND PLACED THEM HERE.
 ### 🔗 Links to the repositories (This way to can see many of the comments):
 - https://github.com/michaelpiro/training
 - https://github.com/michaelpiro/drums_diff_inference
-- https://github.com/YuvalShaffir/AudioLDM-training-finetuning (* a fork that I did to the many bugs in the AudioLDM training code)
+- https://github.com/YuvalShaffir/AudioLDM-training-finetuning (* a fork that I did to fix the many bugs in the AudioLDM training code)
 - https://github.com/YuvalShaffir/Final-Project
 - https://github.cs.huji.ac.il/yuval-shaffir/Drum-Diffusion
 - https://github.com/HUJI-SCE/drums_diffusion
