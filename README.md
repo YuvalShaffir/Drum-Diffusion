@@ -1,9 +1,18 @@
 # 🥁 Drum Diffusion: A Journey in Fine-Tuning AudioLDM2
-**PAY ATTENTION**: DUE TO PROBLEM WITH THE GITHUB, CLONING ALL THE REPOSITORIES TOGETHER DIDN'T WORK WELL, 
-SO I DOWNLOADED THEM AND PLACED THEM HERE, THEREFORE YOU WILL BE UNABLE TO SEE THE COMMITS.
-
 This repository highlights the groundwork laid prior to our custom inference solution and documents our attempts, lessons learned, and the steps that led to failures and insights for further progress.
 Here we have combined many of our repositories and Jupiter notbooks. Our final inference solution is in the HugginFace spaces repository that is at the end of this page.
+
+**PAY ATTENTION**: DUE TO PROBLEM WITH THE GITHUB, CLONING ALL THE REPOSITORIES TOGETHER DIDN'T WORK WELL, 
+SO I DOWNLOADED THEM AND PLACED THEM HERE.
+
+### 🔗 Links to the repositories (This way to can see many of the comments):
+- https://github.com/michaelpiro/training
+- https://github.com/michaelpiro/drums_diff_inference
+- https://github.com/YuvalShaffir/AudioLDM-training-finetuning (* a fork that I did to the many bugs in the AudioLDM training code)
+- https://github.com/YuvalShaffir/Final-Project
+- https://github.cs.huji.ac.il/yuval-shaffir/Drum-Diffusion
+- https://github.com/HUJI-SCE/drums_diffusion
+
 
 ### 👨‍🎓👨‍🎓 The Team
 **Team members**
